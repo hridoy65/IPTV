@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Asian TV
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",ATN Bangla
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",ATN Islamic
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",ATN Music
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",ATN News
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Bangla TV
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Banglavision
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Bijoy TV
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Boishakhi
+http://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",BTV World
+http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Channel 9
+http://robi.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",CHANNEL 24
+http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Channel I
+http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",DBC News
+http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Deepto TV
+http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Desh TV
+http://robi.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Duronto TV
+http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Ekattor
+http://robi.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Ekushey TV
+http://robi.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Gaan Bangla
+http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",GTV
+http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Independent
+http://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Jamuna TV
+http://robi.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Maasranga
+http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",MOHONA TV
+http://robi.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",MY TV
+http://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Nagorik TV
+http://robi.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",News 24
+http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",NTV
+http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",RTV
+http://robi.iptv.digijadoo.net/live/rtv/playlist.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Sangsad TV
+http://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",SATV
+http://robi.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="JagoBD",Shomoy TV
+http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
