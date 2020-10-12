@@ -173,3 +173,5 @@ https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3aBPXuT" group-title="Mx Player",Tollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Natok",Natok
+https://youtu.be/EqJ4V9kWfWE?list=PLzVpPwcTUzR7EwzQ3O1QHd86EUC7pyg-l
