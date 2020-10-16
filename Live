@@ -40,7 +40,7 @@ http://30.30.30.30/live/skyfeed1027/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" group-title="JagoBD",Gaan Bangla
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="JagoBD",GTV
-https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sgh32x-zp3e-dsf-3b7aa-ort-621h-wrwtyoq-en126-sab623-sjdfh-uiou-f36erxty-fort63-rha/playlist.m3u8
+http://106.0.54.6:8080/hls/gtv_cm_ip.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",GTV(IPL Time Only)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602511653/ei/xQ6EX4eQDNDGvAShr7f4DQ/ip/103.138.190.50/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOvG4eiQI3mdeBtypb8NW4sG_7qhkS0Yr2WjTCMgOXtcCIQCKf4Qu4bBoACfzdKkzKT_MgdVSjK-YDFvre-g7lw3h1A%3D%3D/file/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="JagoBD",Independent
