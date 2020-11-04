@@ -81,19 +81,19 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 1
 http://30.30.30.30/live/skyfeed1001/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 2
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",RTV
 http://30.30.30.30/live/skyfeed1002/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 3
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Maasranga
 http://30.30.30.30/live/skyfeed1003/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 4
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 9 HD
 http://30.30.30.30/live/skyfeed1004/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 5
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Nagorik
 http://30.30.30.30/live/skyfeed1005/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 6
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel I HD
 http://30.30.30.30/live/skyfeed1006/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 7
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",SA TV
 http://30.30.30.30/live/skyfeed1007/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 8
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Asian TV
 http://30.30.30.30/live/skyfeed1008/index.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 9
 http://30.30.30.30/live/skyfeed1009/index.m3u8
@@ -111,13 +111,13 @@ http://30.30.30.30/live/skyfeed1014/index.m3u8
 http://30.30.30.30/live/skyfeed1015/index.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 16
 http://30.30.30.30/live/skyfeed1016/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 17
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Sony Ten 2 HD
 http://30.30.30.30/live/skyfeed1017/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 18
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Colors HD
 http://30.30.30.30/live/skyfeed1018/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 19
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Star Sports Select 1 HD
 http://30.30.30.30/live/skyfeed1019/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 20
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Star Sports Select 2 HD
 http://30.30.30.30/live/skyfeed1020/index.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 21
 http://30.30.30.30/live/skyfeed1021/index.m3u8
@@ -125,17 +125,17 @@ http://30.30.30.30/live/skyfeed1021/index.m3u8
 http://30.30.30.30/live/skyfeed1022/index.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 23
 http://30.30.30.30/live/skyfeed1023/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 24
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Deepto TV
 http://30.30.30.30/live/skyfeed1024/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 25
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Mastiii
 http://30.30.30.30/live/skyfeed1025/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 26
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",B4U Music
 http://30.30.30.30/live/skyfeed1026/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 27
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Ekushey TV
 http://30.30.30.30/live/skyfeed1027/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 28
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",DBC
 http://30.30.30.30/live/skyfeed1028/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 29
+#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Sony SAB HD
 http://30.30.30.30/live/skyfeed1029/index.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Channel 30
 http://30.30.30.30/live/skyfeed1030/index.m3u8
