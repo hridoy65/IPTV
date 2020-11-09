@@ -171,5 +171,5 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://bit.ly/3g0xwB7" group-title="Mx Player",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Unix TV(Skyview)",Sony Sab
+EXTINF:-1 tvg-id=""tvg-name=SonySab" group-title="2.Hindi Entertainment tvg-logo="" parent-code=1234" audio-track="IN",Sony Sab
 https://load.airtelxstream.in/sabhd/smil:common.smil/playlist.m3u8?DVR
