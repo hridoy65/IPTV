@@ -173,6 +173,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTM3U x-tvg-url="http://example.com/epg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="ext" tvg-language="English" tvg-country="INDIA" tvg-url="" group-title="Ent",Sony Sab
-#EXTVLCOPT:http-referrer=https://load.airtelxstream.in
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://load.airtelxstream.in/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.47 Safari/537.36 Edg/87.0.664.30
 https://load.airtelxstream.in/sabhd/smil:common.smil/manifest.mpd
